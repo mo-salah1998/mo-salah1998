@@ -60,7 +60,7 @@ i am currently studying for a master's degree
     </td>
     <td align="center" width="96">
       <a href="#salah-tech">
-        <img src="https://drive.google.com/file/d/1ILYapmldMsDiTfjXESCFMb_zQaoq-Ohk/view?usp=sharing" width="48" height="48" alt="Symfony" />
+        <img src="https://github.com/mo-salah1998/mo-salah1998/blob/main/symfony%20pour%20github%20(3).png" width="48" height="48" alt="Symfony" />
       </a>
       <br>Symfony
     </td>
