@@ -155,12 +155,6 @@ i am currently studying for a master's degree
    <tr>
     <td align="center" width="96">
       <a href="#salah-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="TailWind" />
-      </a>
-      <br>TailWind
-    </td>
-    <td align="center" width="96">
-      <a href="#salah-tech">
         <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
       </a>
       <br>Bash
@@ -173,21 +167,9 @@ i am currently studying for a master's degree
     </td>
     <td align="center" width="96">
       <a href="#salah-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
-      </a>
-      <br>Tensorflow
-    </td>
-    <td align="center" width="96">
-      <a href="#salah-tech">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
       </a>
       <br>Material ui
-    </td>
-    <td align="center" width="96">
-      <a href="#salah-tech">
-        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" width="48" height="48" alt="Solidity" />
-      </a>
-      <br>Solidity
     </td>
      <td align="center" width="96"> 
       <a href="#salah-tech" >
@@ -195,18 +177,8 @@ i am currently studying for a master's degree
       </a>
       <br>Redux
     </td>
-          <td align="center" width="96"> 
-      <a href="#salah-tech" >
-        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
-      </a>
-      <br>Next JS
-    </td>
-             <td align="center" width="96"> 
-      <a href="#salah-tech" >
-        <img src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" width="48" height="48" alt="Google Cloud" />
-      </a>
-      <br>G Cloud
-    </td>
+          
+          
   </tr>
     
 </table>
