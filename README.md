@@ -48,13 +48,13 @@ i am currently studying for a master's degree
     </td>
     <td align="center" width="96">
       <a href="#salah-tech">
-        <img src="https://github.com/mo-salah1998/mo-salah1998/blob/main/1024px-HTML5_logo_and_wordmark.svg%20(2).png?raw=true" width="48" height="48" alt="HTML" />
+        <img src="https://github.com/mo-salah1998/mo-salah1998/blob/main/1024px-HTML5_logo_and_wordmark.svg%20(2).png?raw=true" width="48" height="48" alt="Html"/>
       </a>
       <br>HTML5
     </td>
     <td align="center" width="96">
       <a href="#salah-tech">
-        <img src="https://github.com/mo-salah1998/mo-salah1998/blob/main/langfr-800px-CSS3_logo_and_wordmark.svg%20(2).png" width="48" height="48" alt="CSS" />
+        <img src="https://github.com/mo-salah1998/mo-salah1998/blob/main/langfr-800px-CSS3_logo_and_wordmark.svg%20(2).png" width="48" height="48" alt="css"/>
       </a>
       <br>CSS
     </td>
@@ -189,11 +189,23 @@ i am currently studying for a master's degree
       </a>
       <br>Java
     </td>
+     <td align="center" width="96"> 
+      <a href="#salah-tech" >
+        <img src="https://cdn-icons-png.flaticon.com/512/226/226770.png" width="48" height="48" alt="Android" />
+      </a>
+      <br>Android
+    </td>
           <td align="center" width="96"> 
       <a href="#salah-tech" >
         <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="48" height="48" alt="docker" />
       </a>
       <br>Docker
+    </td>
+         <td align="center" width="96"> 
+      <a href="#salah-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Apache_Feather_Logo.svg/1200px-Apache_Feather_Logo.svg.png" width="48" height="48" alt="apache httpd" />
+      </a>
+      <br>Apache 
     </td>
   </tr>
     
