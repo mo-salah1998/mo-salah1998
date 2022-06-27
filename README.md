@@ -90,7 +90,7 @@ i am currently studying for a master's degree
     </td>
     <td align="center" width="96">
       <a href="#salah-tech">
-        <img src="" width="48" height="48" alt="Express" />
+        <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" width="48" height="48" alt="Express" />
       </a>
       <br>Express
     </td>
@@ -105,7 +105,7 @@ i am currently studying for a master's degree
     </td>
   <td align="center" width="96">
       <a href="#salah-tech" >
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
+        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="php" />
       </a>
       <br>PHP
     </td>
@@ -189,7 +189,12 @@ i am currently studying for a master's degree
       </a>
       <br>Java
     </td>
-          
+          <td align="center" width="96"> 
+      <a href="#salah-tech" >
+        <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="48" height="48" alt="docker" />
+      </a>
+      <br>Docker
+    </td>
   </tr>
     
 </table>
