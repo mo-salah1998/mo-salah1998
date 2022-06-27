@@ -60,9 +60,9 @@ i am currently studying for a master's degree
     </td>
     <td align="center" width="96">
       <a href="#salah-tech">
-        <img src="https://github.com/mo-salah1998/mo-salah1998/blob/main/symfony%20pour%20github%20(3).png" width="48" height="48" alt="Symfony" />
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
       </a>
-      <br>Symfony
+      <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a href="#salah-tech">
@@ -78,30 +78,42 @@ i am currently studying for a master's degree
     </td>
     <td align="center" width="96">
       <a href="#salah-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#salah-tech">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
       </a>
       <br>Node JS
     </td>
      <td align="center" width="96"> 
       <a href="#salah-tech" >
-        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
+        <img src="https://miro.medium.com/max/300/1*_HZPBJ2WejyvkBDJo1CUwg.png" width="48" height="48" alt="Mongo DB" />
       </a>
       <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#salah-tech">
+        <img src="" width="48" height="48" alt="Express" />
+      </a>
+      <br>Express
     </td>
   </tr>
   
   <tr>
-    <td align="center" width="96"> 
-      <a href="#salah-tech" >
-        <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
+  <td align="center" width="96">
+      <a href="#salah-tech">
+        <img src="https://github.com/mo-salah1998/mo-salah1998/blob/main/symfony%20pour%20github%20(3).png" width="48" height="48" alt="Symfony" />
       </a>
-      <br>C Lang
+      <br>Symfony
+    </td>
+  <td align="center" width="96">
+      <a href="#salah-tech" >
+        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
+      </a>
+      <br>PHP
+    </td>
+  <td align="center"  width="96">
+      <a href="#salah-tech">
+        <img src="https://www.logiciel-libre.org/stock/img/product/logo-twig.png" width="48" height="48" alt="Twig" />
+      </a>
+      <br>Twig
     </td>
     <td align="center" width="96">
       <a href="#salah-tech" >
@@ -109,35 +121,11 @@ i am currently studying for a master's degree
       </a>
       <br>Linux
     </td>
-    <td align="center"  width="96">
-      <a href="#salah-tech">
-        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="48" height="48" alt="Gatsby" />
-      </a>
-      <br>Gatsby
-    </td>
-    <td align="center"  width="96">
-      <a href="#salah-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="48" height="48" alt="Electron" />
-      </a>
-      <br>Electron
-    </td>
     <td align="center" width="96">
       <a href="#salah-tech">
-        <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
+        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
       </a>
-      <br>Firebase
-    </td>
-    <td align="center"  width="96">
-      <a href="#salah-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/480px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WordPress" />
-      </a>
-      <br>WordPress
-    </td>
-    <td align="center" width="96">
-      <a href="#salah-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
-      </a>
-      <br>GraphQL
+      <br>Bash
     </td>
     <td align="center" width="96">
       <a href="#salah-tech" >
@@ -145,19 +133,31 @@ i am currently studying for a master's degree
       </a>
       <br>Git
     </td>
+    <td align="center"  width="96">
+      <a href="#salah-tech">
+        <img src="http://pngimg.com/uploads/mysql/mysql_PNG22.png" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#salah-tech">
+        <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
     <td align="center" width="96">
       <a href="#salah-tech" >
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
       </a>
-      <br>PHP
+      <br>GraphQL
     </td>
   </tr>
    <tr>
-    <td align="center" width="96">
+    <td align="center"  width="96">
       <a href="#salah-tech">
-        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/480px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WordPress" />
       </a>
-      <br>Bash
+      <br>WordPress
     </td>
     <td align="center" width="96">
       <a href="#salah-tech">
@@ -177,7 +177,18 @@ i am currently studying for a master's degree
       </a>
       <br>Redux
     </td>
-          
+          <td align="center" width="96"> 
+      <a href="#salah-tech" >
+        <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
+      </a>
+      <br>C Lang
+    </td>
+    <td align="center" width="96"> 
+      <a href="#salah-tech" >
+        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" width="48" height="48" alt="java" />
+      </a>
+      <br>Java
+    </td>
           
   </tr>
     
