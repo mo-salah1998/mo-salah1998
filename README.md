@@ -2,12 +2,19 @@
 <h3 align="left">I am a Software Developer  </h3>
 
 - :office: &nbsp;i am currently studying for a **Master's Degree**
+ 
 - 🌱 I’m currently learning DevOps
+ 
 - :speech_balloon: &nbsp;I like to talk about **Web 3.0** and **JavaScript**
+ 
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
+ 
 - 👯  I’m looking to collaborate on **OpenSource Projects**
+ 
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
+ 
 - 📫 How to reach me **naija.mouhamedsalah@gmail.com**
+ 
 
 <div align="center">
   <a href="https://github.com/mo-salah1998">
