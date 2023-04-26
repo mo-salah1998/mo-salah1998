@@ -16,12 +16,12 @@
 - 📫 How to reach me **naija.mouhamedsalah@gmail.com**
  
 
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/mo-salah1998">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mo-salah1998&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-salah1998&layout=compact&langs_count=7&theme=react "/>
 </div>
-
+-->
 <br>
 
 <h2 align="left" id="salah-tech">Favorite Tech</h2>
