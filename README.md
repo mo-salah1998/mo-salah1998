@@ -220,5 +220,9 @@
   <img src="https://streak-stats.demolab.com?user=mo-salah1998&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-
- 
+###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mo-salah1998/mo-salah1998/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mo-salah1998/mo-salah1998/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mo-salah1998/mo-salah1998/output/github-snake.svg" />
+</picture> 
