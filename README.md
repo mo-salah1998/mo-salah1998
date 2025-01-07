@@ -1,7 +1,7 @@
 <h1 align="left" id="salah-title">:wave: Hello there! I'm Mo-Salah </h1>
 <h3 align="left">I am a Software Developer  </h3>
 
-- :office: &nbsp;i am currently studying for a **Master's Degree**
+- :office: &nbsp;I am currently a **Fullstack Developer / Instructor** at **Orange Digital Center (ODC) : Orange Tunisia**.
  
 - 🌱 I’m currently learning DevOps
  
@@ -11,9 +11,9 @@
  
 - 👯  I’m looking to collaborate on **OpenSource Projects**
  
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :computer: &nbsp;Connect with me on **[[LinkedIn]](https://www.linkedin.com/in/mouhamed-salah-naija/)**
  
-- 📫 How to reach me **naija.mouhamedsalah@gmail.com**
+- 📫 How to reach me **[[email]](mohamedsalah.naija@orange.com)**
  
 
 <!--<div align="center">
